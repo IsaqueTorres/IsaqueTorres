@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaqueTorres
-- 👀 I’m interested in Linux, Cybersecurity, Infrastructure, C, Python.
-- 🌱 I’m currently learning Linux, Cybersecurity, Infrastructure, C, Python.
+- 👀 I’m interested in Linux, Backend, Infrastructure, Python.
+- 🌱 I’m currently learning Javascript, Electron, Flutter and Python.
 - 💞️ I’m looking to collaborate on OpenSource Projects.
 - 📫 Write for torresisaque@gmail.com or www.hostsourcetecnologia.com.br ...
 
